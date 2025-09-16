@@ -1,6 +1,6 @@
 ### Head Plate for Mouse 2P-RAM Imaging
 
-Researchers at Janelia have designed several head plates for live imaging of a mouse using a downward-facing objective in collaboration with jET. It is specially designed to work with the 2P-RAM (2-photon random access mesoscope).
+Researchers at Janelia have designed several head plates for live imaging of a mouse using a downward-facing objective in collaboration with jET. They are specially designed to work with the 2P-RAM (2-photon random access mesoscope).
 
 
 
